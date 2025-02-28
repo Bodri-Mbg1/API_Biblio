@@ -8,5 +8,3 @@ Consultation des emprunts actifs : Permet de récupérer la liste de tous les em
 Consultation des détails d'un emprunt : Permet de consulter les informations détaillées d'un emprunt spécifique, incluant la date d'emprunt, la date de retour (si elle existe), et le livre emprunté.
 Sécurisation :
 L'API utilise JWT (JSON Web Tokens) pour sécuriser les accès. Chaque utilisateur doit d'abord s'authentifier pour obtenir un jeton d'accès, qui sera ensuite utilisé pour toutes les requêtes nécessitant une authentification.
-
-C'est un résumé simple expliquant le but et les fonctionnalités de l'API sans entrer dans les détails techniques. Si tu veux des ajustements, n'hésite pas à me le dire ! 😊
